@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: lightgray;
+  }
+  
+  .container {
+    padding: 20rem;
+  }
+  
+  .list-group-item {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  #box {
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+  }
