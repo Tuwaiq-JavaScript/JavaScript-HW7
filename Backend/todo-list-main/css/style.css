@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: darkgrey;
+}
+
+.container {
+  padding: 20rem;
+}
+
+.list-group-item {
+  display: flex;
+  justify-content: space-between;
+}
+.parent {
+  width: 100%;
+  height: 90px;
+  white-space: nowrap;
+  overflow-x: auto;
+}
+.child {
+  display: inline-block;
+  width: 50%;
+  height: 100%;
+
+}
