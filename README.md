@@ -2,14 +2,4 @@
 
 #Develop contact website:
 
-# Requirment:
- * the website idea, name & number of each person.
- * build the backend server.
- * build the front-end website.
- * upload your project here.
- * Screenshot for your website.
-
-#Helper links 
-> https://sweetalert2.github.io
-> 
-> https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+![‏‏لقطة الشاشة (46)](https://user-images.githubusercontent.com/38569463/188506576-bc8679be-30ac-4aaf-bafa-a6f4b234fd72.png)
