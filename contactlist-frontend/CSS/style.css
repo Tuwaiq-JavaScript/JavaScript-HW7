@@ -1,0 +1,23 @@
+body{
+    background-image:url(/img/Background_design_\(25\).jpg);
+    margin-top: 2rem;
+}
+
+.form-control{
+    border-color:white;
+  background: transparent;
+}
+.form-control:focus{
+    border-color:white;
+  background: transparent;
+}
+
+
+.con{
+   margin-top: 1rem;
+   margin-left:18rem;
+    border-radius: 0.5rem;
+    width: 50%;
+    
+
+}
