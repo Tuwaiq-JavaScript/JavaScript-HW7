@@ -1,0 +1,28 @@
+body {
+    margin-top: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://www.apple-wd.com/wp-content/uploads/2018/04/2-خلفيات-لمزيج-من-الألوان-المتناغمة-لهاتف-آيفون-576x1024.jpeg);
+  }
+
+  h1 {
+    color: rgb(254, 254, 254);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+  }
+  h3 {
+    color: rgb(0, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+  }
+  
+  #s{
+    color: #000;
+  }
+  
+  .input-group{
+
+    margin-top: 5rem;
+    text-align: center;
+  }
