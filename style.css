@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #bbe0f2;
+    font-family: 'Open Sans', sans-serif;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+  }
+.form-control{
+    border-color:white;
+  background: transparent;
+}
+.form-control:focus{
+    border-color:white;
+  background: transparent;
+}
+
+h1{
+    color: rgba(47, 79, 47, 0.842);
+    text-align: center;
+    margin: 0 0 20px;
+}
+
+div{
+    color:rgba(42, 64, 42, 0.842);
+    text-align: center;
+    margin: 0 0 20px;
+
+}
+
+
+.con{
+   margin-top: 1rem;
+   margin-left:18rem;
+    border-radius: 0.5rem;
+    width: 50%;
+
+
+}
