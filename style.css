@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    padding: 20rem;
+  }
+  
+  .list-group-item {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .button__icon {
+    font-size: 1em;
+  }
+  
+  
