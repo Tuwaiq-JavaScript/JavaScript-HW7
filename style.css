@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    background-image: url(./1w.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .container {
+    padding: 20rem;
+  }
+
+  h1{
+    color: brown;
+  }
+  p{
+    color: rgb(118, 118, 118);
+  }
+  
+  .list-group-item {
+    display: flex;
+    justify-content: space-between;
+  }
+/**/
+  .parent {
+    width: 100%;
+    height: 90px;
+    white-space: nowrap;
+    overflow-x: auto;
+}
+.child {
+    display: inline-block;
+    width: 50%;
+    height: 100%;
+
+}
