@@ -4,7 +4,8 @@
 
 # Requirment:
  * the website idea, name & number of each person.
- * build the backend server.
+ * build the backend server.<img width="1428" alt="Screen Shot 1444-02-10 at 8 02 50 AM" src="https://user-images.githubusercontent.com/61663908/188552707-82a4a26b-6895-4650-b9b2-59c86cf5d771.png">
+
  * build the front-end website.
  * upload your project here.
  * Screenshot for your website.
